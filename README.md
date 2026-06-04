@@ -1,4 +1,4 @@
-# 🤖 Smart Daily Decision App
+# Smart Daily Decision App
 
 A cross-platform mobile application built with Flutter to help users make better daily decisions using smart algorithms.
 
@@ -62,7 +62,7 @@ A quick overview of the main folders:
 *   `android/`, `ios/`, `web/`, `windows/`, `macos/`, `linux/` - Platform-specific project files.
 *   `test/` - For unit and widget tests.
 
-## 👨‍💻 Author
+## Author
 
 **Kassem Araji**
 *   GitHub: [@kassemaraji2020-create](https://github.com/kassemaraji2020-create)
